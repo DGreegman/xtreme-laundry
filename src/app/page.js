@@ -33,7 +33,7 @@ const LaundryWebsite = () => {
         <div className="relative container mx-auto px-4 h-full flex items-center">
           <div className="max-w-2xl text-white">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Professional Laundry & Dry Cleaning Services
+              Xtreme Professional Laundry & Dry Cleaning Services
             </h1>
             <p className="text-xl mb-8">
               Let us take care of your garments with our premium cleaning services
